@@ -1,0 +1,22 @@
+div{
+
+    width: 200px;
+    height: 200px;
+    margin: 0px auto;
+    margin-top: 100px;
+    border: 20px black solid;
+}
+table{
+
+    border: 1px white solid;
+    width: 200px;
+    height: 200px;
+}
+#one,#four{
+
+    background-color: white;
+}
+#two,#three{
+
+    background-color: black;
+}
